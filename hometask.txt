@@ -1,0 +1,2 @@
+Contents have difference only in line separators.
+demo имеет на 1 отступ больше, чем master
